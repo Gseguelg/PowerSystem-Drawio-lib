@@ -9,3 +9,11 @@ If you find any mistake, shape improvement, or just want add new shapes by impro
 
 ## Base program
 Visit https://github.com/jgraph/drawio-desktop to find base software and it's source code.
+
+# Try it you self!
+* You can draw Substations. Here an example.
+
+
+## Guidelines/Tips
+1. A line width of 5pt make very atractive Power System diagrams.
+2. 
