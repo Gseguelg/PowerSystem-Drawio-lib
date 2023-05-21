@@ -10,9 +10,12 @@ If you find any mistake, shape improvement, or just want add new shapes by impro
 ## Base program
 Visit ![drawio-desktop](https://github.com/jgraph/drawio-desktop) to find base software and it's source code.
 
-# Try it you self!
-* You can draw Substations. ![Here's an example](https://github.com/Gseguelg/Drawio-PS-library/tree/main/Samples).
-![PS Sample](https://github.com/Gseguelg/Drawio-PS-library/blob/main/Samples/Sample.png?raw=true)
+# See the Examples!
+* You can draw Substations and many more in ![the Samples](https://github.com/Gseguelg/PowerSystem-Drawio-lib/tree/main/Samples) Folder.
+![PS Sample](https://github.com/Gseguelg/PowerSystem-Drawio-lib/blob/main/Samples/Sample Net 1.png?raw=true)
+
+# All Icons!
+![All Icons](https://github.com/Gseguelg/PowerSystem-Drawio-lib/blob/main/Samples/All Icons.png?raw=true)
 
 ## Guidelines/Tips
-1. A line width of 5pt make very atractive Power System diagrams.
+1. A line width of 5pt make very compelling as line for Power System diagrams.
