@@ -10,11 +10,14 @@ If you find any mistake, shape improvement, or just want add new shapes by impro
 ## Base program
 Visit ![drawio-desktop](https://github.com/jgraph/drawio-desktop) to find base software and it's source code.
 
-# See the Examples!
+## How to load
+With Drawio proyect opened: `File > Open Library` and load the file `SEP Icons.xml`. That's all! you only require this xml file.
+
+## See the Examples!
 * You can draw Substations and many more in the ![Samples](https://github.com/Gseguelg/PowerSystem-Drawio-lib/tree/main/Samples) Folder.
 ![PS Sample](https://github.com/Gseguelg/PowerSystem-Drawio-lib/blob/main/Samples/Net%201.drawio.png?raw=true)
 
-# All Icons!
+## All Icons!
 ![All Icons](https://github.com/Gseguelg/PowerSystem-Drawio-lib/blob/main/Samples/All%20Icons.drawio.png?raw=true)
 
 ## Guidelines/Tips
